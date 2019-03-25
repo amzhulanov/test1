@@ -3,3 +3,5 @@ print("Hello world")
 Public class Super class
 
 class2
+
+print("Hellow");
