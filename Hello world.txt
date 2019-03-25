@@ -1,7 +1,7 @@
-print("Hello world")
+print("Hello world")*
 
-Public class Super class
+Public class Super class*
 
-class2
+class2*
 
-print("Hellow");
+print("Hellow");*
