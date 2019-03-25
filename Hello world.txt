@@ -1,8 +1,7 @@
 System.out.print("Hello world")*
-
 Public class Super class*
-
 class2*
+
 
 System.out.print("Hellow");*
 
