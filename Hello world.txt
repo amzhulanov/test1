@@ -1,9 +1,9 @@
-print("Hello world")
+System.out.print("Hello world")
 
 Public class Super class
 
 class2
 
-print("Hellow");
+System.out.print("Hellow");
 
-print("Hello people!");
+System.out.print("Hello people!");
